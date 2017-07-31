@@ -14,10 +14,10 @@ export USER="root"
 # The display that VNC will use
 DISPLAY="1"
 # Color depth (between 8 and 32)
-DEPTH="16"
+DEPTH="8"
 # The Desktop geometry to use.
 #GEOMETRY="x"
-GEOMETRY="1024x768"
+GEOMETRY="800x600"
 #You Can Choice GEOMETRY="800x600" && GEOMETRY="1280x1024"
 # The name that the VNC Desktop will have.
 NAME="Vncserver"
